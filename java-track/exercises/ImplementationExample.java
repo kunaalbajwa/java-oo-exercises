@@ -72,7 +72,7 @@ public class Computer {
 	    return "Memory: " + this.memory + "Processor: " +this.processor + "Size: " + this.size + "Brand: " + this.brand;
 
 	    }
-	public static void main(String args[])
+//	public static void main1(String args[])
 	{
 	Computer myComputer=new Computer(8, 2.4, 15.5, "Lenovo");
 	System.out.println(myComputer.getBrand());

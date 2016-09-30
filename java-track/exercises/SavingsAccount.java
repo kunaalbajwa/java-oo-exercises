@@ -12,7 +12,7 @@ private double interest_rate;
 	public Integer getBalance(){ 
 		return this.balance;
 	}
-	public double getInterestRate() {
+	public double getInterestRate() { //health
 		return this.interest_rate;
 	}
 	

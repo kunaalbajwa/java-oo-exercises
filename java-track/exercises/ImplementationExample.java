@@ -16,7 +16,7 @@ public class Computer {
 
 	private double size;
 	private double processor;
-	private String brand;
+	private String brandß;
 
 	//Behavior
 

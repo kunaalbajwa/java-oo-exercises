@@ -9,7 +9,7 @@ private double interest_rate;
 	this.interest_rate= interest_rate;
 }
 
-	public Integer getBalance(){
+	public Integer getBalance(){ 
 		return this.balance;
 	}
 	public double getInterestRate() {

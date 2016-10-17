@@ -7,6 +7,7 @@ GPA
 
 	 */
 
+	//make name one variable
 	String First_Name;
 	String Last_Name;
 	int Identify;
